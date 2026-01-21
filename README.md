@@ -23,7 +23,7 @@ Implementación profesional de los **7 conceptos principales de Programación Or
 
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/tu-usuario/examen-poo-laravel.git
+git clone https://github.com/tu-usuario/examen-poo-laravel.git https://github.com/ErikManuel/Examen-de-poo-con-php.git
 cd examen-poo-laravel
 
 # 2. Instalar dependencias
